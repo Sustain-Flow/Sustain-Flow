@@ -1,0 +1,16 @@
+scenario,timestamp,stage,wip,wip_policy,idle_energy_kwh,idle_energy_baseline_kwh,energy_per_order_kwh,energy_per_order_baseline_kwh,production_volume_pct_change,scheduled_cleaning,maintenance_event,queue_increase_precedes_energy,data_quality
+A,2026-10-12T08:00:00,Packing,4.2,3.0,22,20,11,10,1,0,0,true,synthetic_demo_data
+A,2026-10-13T09:00:00,Packing,5.1,3.0,24,20,12,10,1,0,0,true,synthetic_demo_data
+A,2026-10-14T10:00:00,Packing,5.8,3.0,25,20,12,10,1,0,0,true,synthetic_demo_data
+A,2026-10-15T11:00:00,Packing,6.1,3.0,26,20,13,10,1,0,0,true,synthetic_demo_data
+A,2026-10-16T12:00:00,Packing,7.6,3.0,24,20,10,10,1,0,0,true,synthetic_demo_data
+B,2026-10-12T08:00:00,Packing,4.2,3.0,22,20,11,10,18,1,0,false,synthetic_demo_data
+B,2026-10-13T09:00:00,Packing,5.1,3.0,24,20,12,10,18,1,0,false,synthetic_demo_data
+B,2026-10-14T10:00:00,Packing,5.8,3.0,25,20,12,10,18,1,0,false,synthetic_demo_data
+B,2026-10-15T11:00:00,Packing,6.1,3.0,26,20,13,10,18,1,0,false,synthetic_demo_data
+B,2026-10-16T12:00:00,Packing,7.6,3.0,24,20,10,10,18,1,0,false,synthetic_demo_data
+C,2026-10-12T08:00:00,Packing,4.2,3.0,22,20,11,10,3,0,0,,synthetic_demo_data
+C,2026-10-13T09:00:00,Packing,5.1,3.0,24,20,12,10,3,0,0,,synthetic_demo_data
+C,2026-10-14T10:00:00,Packing,5.8,3.0,25,20,12,10,3,0,0,,synthetic_demo_data
+C,2026-10-15T11:00:00,Packing,6.1,3.0,26,20,13,10,3,0,0,,synthetic_demo_data
+C,2026-10-16T12:00:00,Packing,7.6,3.0,24,20,10,10,3,0,0,,synthetic_demo_data
