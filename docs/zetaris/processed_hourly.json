@@ -1,0 +1,1633 @@
+[{
+      "date": "2022-07-22",
+      "hour_start": 11,
+      "hour_end": 12,
+      "production_gallons": 3
+    },
+    {
+      "date": "2022-07-22",
+      "hour_start": 12,
+      "hour_end": 13,
+      "production_gallons": 425
+    },
+    {
+      "date": "2022-07-22",
+      "hour_start": 13,
+      "hour_end": 14,
+      "production_gallons": 6
+    },
+    {
+      "date": "2022-07-22",
+      "hour_start": 14,
+      "hour_end": 15,
+      "production_gallons": 0
+    },
+    {
+      "date": "2022-07-22",
+      "hour_start": 15,
+      "hour_end": 16,
+      "production_gallons": 490
+    },
+    {
+      "date": "2022-07-22",
+      "hour_start": 16,
+      "hour_end": 17,
+      "production_gallons": 673
+    },
+    {
+      "date": "2022-07-22",
+      "hour_start": 17,
+      "hour_end": 18,
+      "production_gallons": 669
+    },
+    {
+      "date": "2022-07-22",
+      "hour_start": 18,
+      "hour_end": 19,
+      "production_gallons": 452
+    },
+    {
+      "date": "2022-07-22",
+      "hour_start": 19,
+      "hour_end": 20,
+      "production_gallons": 2
+    },
+    {
+      "date": "2022-07-22",
+      "hour_start": 20,
+      "hour_end": 21,
+      "production_gallons": 129
+    },
+    {
+      "date": "2022-07-26",
+      "hour_start": 9,
+      "hour_end": 10,
+      "production_gallons": 21
+    },
+    {
+      "date": "2022-07-26",
+      "hour_start": 10,
+      "hour_end": 11,
+      "production_gallons": 8
+    },
+    {
+      "date": "2022-07-26",
+      "hour_start": 11,
+      "hour_end": 12,
+      "production_gallons": 0
+    },
+    {
+      "date": "2022-07-26",
+      "hour_start": 12,
+      "hour_end": 13,
+      "production_gallons": 1
+    },
+    {
+      "date": "2022-07-26",
+      "hour_start": 13,
+      "hour_end": 14,
+      "production_gallons": 263
+    },
+    {
+      "date": "2022-07-26",
+      "hour_start": 14,
+      "hour_end": 15,
+      "production_gallons": 160
+    },
+    {
+      "date": "2022-07-26",
+      "hour_start": 15,
+      "hour_end": 16,
+      "production_gallons": 568
+    },
+    {
+      "date": "2022-07-26",
+      "hour_start": 16,
+      "hour_end": 17,
+      "production_gallons": 670
+    },
+    {
+      "date": "2022-07-26",
+      "hour_start": 17,
+      "hour_end": 18,
+      "production_gallons": 540
+    },
+    {
+      "date": "2022-07-26",
+      "hour_start": 18,
+      "hour_end": 19,
+      "production_gallons": 12
+    },
+    {
+      "date": "2022-08-01",
+      "hour_start": 14,
+      "hour_end": 15,
+      "production_gallons": 168
+    },
+    {
+      "date": "2022-08-01",
+      "hour_start": 15,
+      "hour_end": 16,
+      "production_gallons": 40
+    },
+    {
+      "date": "2022-08-01",
+      "hour_start": 16,
+      "hour_end": 17,
+      "production_gallons": 243
+    },
+    {
+      "date": "2022-08-01",
+      "hour_start": 17,
+      "hour_end": 18,
+      "production_gallons": 303
+    },
+    {
+      "date": "2022-08-04",
+      "hour_start": 10,
+      "hour_end": 11,
+      "production_gallons": 221
+    },
+    {
+      "date": "2022-08-04",
+      "hour_start": 11,
+      "hour_end": 12,
+      "production_gallons": 445
+    },
+    {
+      "date": "2022-08-04",
+      "hour_start": 12,
+      "hour_end": 13,
+      "production_gallons": 108
+    },
+    {
+      "date": "2022-08-04",
+      "hour_start": 15,
+      "hour_end": 16,
+      "production_gallons": 170
+    },
+    {
+      "date": "2022-08-04",
+      "hour_start": 16,
+      "hour_end": 17,
+      "production_gallons": 146
+    },
+    {
+      "date": "2022-09-02",
+      "hour_start": 11,
+      "hour_end": 12,
+      "production_gallons": 84
+    },
+    {
+      "date": "2022-09-02",
+      "hour_start": 12,
+      "hour_end": 13,
+      "production_gallons": 96
+    },
+    {
+      "date": "2022-09-02",
+      "hour_start": 13,
+      "hour_end": 14,
+      "production_gallons": 1
+    },
+    {
+      "date": "2022-09-02",
+      "hour_start": 14,
+      "hour_end": 15,
+      "production_gallons": 193
+    },
+    {
+      "date": "2022-09-02",
+      "hour_start": 15,
+      "hour_end": 16,
+      "production_gallons": 294
+    },
+    {
+      "date": "2022-09-02",
+      "hour_start": 16,
+      "hour_end": 17,
+      "production_gallons": 239
+    },
+    {
+      "date": "2022-09-06",
+      "hour_start": 14,
+      "hour_end": 15,
+      "production_gallons": 120
+    },
+    {
+      "date": "2022-09-06",
+      "hour_start": 15,
+      "hour_end": 16,
+      "production_gallons": 383
+    },
+    {
+      "date": "2022-09-06",
+      "hour_start": 16,
+      "hour_end": 17,
+      "production_gallons": 447
+    },
+    {
+      "date": "2022-09-06",
+      "hour_start": 17,
+      "hour_end": 18,
+      "production_gallons": 312
+    },
+    {
+      "date": "2022-09-08",
+      "hour_start": 14,
+      "hour_end": 15,
+      "production_gallons": 455
+    },
+    {
+      "date": "2022-09-08",
+      "hour_start": 15,
+      "hour_end": 16,
+      "production_gallons": 452
+    },
+    {
+      "date": "2022-09-12",
+      "hour_start": 13,
+      "hour_end": 14,
+      "production_gallons": 120
+    },
+    {
+      "date": "2022-09-12",
+      "hour_start": 14,
+      "hour_end": 15,
+      "production_gallons": 284
+    },
+    {
+      "date": "2022-09-12",
+      "hour_start": 15,
+      "hour_end": 16,
+      "production_gallons": 222
+    },
+    {
+      "date": "2022-09-12",
+      "hour_start": 16,
+      "hour_end": 17,
+      "production_gallons": 266
+    },
+    {
+      "date": "2022-09-15",
+      "hour_start": 10,
+      "hour_end": 11,
+      "production_gallons": 341
+    },
+    {
+      "date": "2022-09-15",
+      "hour_start": 11,
+      "hour_end": 12,
+      "production_gallons": 453
+    },
+    {
+      "date": "2022-09-15",
+      "hour_start": 13,
+      "hour_end": 14,
+      "production_gallons": 197
+    },
+    {
+      "date": "2022-09-15",
+      "hour_start": 14,
+      "hour_end": 15,
+      "production_gallons": 450
+    },
+    {
+      "date": "2022-09-15",
+      "hour_start": 15,
+      "hour_end": 16,
+      "production_gallons": 352
+    },
+    {
+      "date": "2022-09-15",
+      "hour_start": 16,
+      "hour_end": 17,
+      "production_gallons": 149
+    },
+    {
+      "date": "2022-09-20",
+      "hour_start": 10,
+      "hour_end": 11,
+      "production_gallons": 191
+    },
+    {
+      "date": "2022-09-20",
+      "hour_start": 11,
+      "hour_end": 12,
+      "production_gallons": 291
+    },
+    {
+      "date": "2022-09-20",
+      "hour_start": 13,
+      "hour_end": 14,
+      "production_gallons": 79
+    },
+    {
+      "date": "2022-09-20",
+      "hour_start": 14,
+      "hour_end": 15,
+      "production_gallons": 219
+    },
+    {
+      "date": "2022-09-22",
+      "hour_start": 11,
+      "hour_end": 12,
+      "production_gallons": 428
+    },
+    {
+      "date": "2022-09-22",
+      "hour_start": 13,
+      "hour_end": 14,
+      "production_gallons": 214
+    },
+    {
+      "date": "2022-09-22",
+      "hour_start": 14,
+      "hour_end": 15,
+      "production_gallons": 330
+    },
+    {
+      "date": "2022-09-22",
+      "hour_start": 15,
+      "hour_end": 16,
+      "production_gallons": 243
+    },
+    {
+      "date": "2022-09-22",
+      "hour_start": 16,
+      "hour_end": 17,
+      "production_gallons": 191
+    },
+    {
+      "date": "2022-09-28",
+      "hour_start": 14,
+      "hour_end": 15,
+      "production_gallons": 116
+    },
+    {
+      "date": "2022-09-28",
+      "hour_start": 15,
+      "hour_end": 16,
+      "production_gallons": 290
+    },
+    {
+      "date": "2022-09-28",
+      "hour_start": 17,
+      "hour_end": 18,
+      "production_gallons": 146
+    },
+    {
+      "date": "2022-10-07",
+      "hour_start": 13,
+      "hour_end": 14,
+      "production_gallons": 55
+    },
+    {
+      "date": "2022-10-07",
+      "hour_start": 14,
+      "hour_end": 15,
+      "production_gallons": 347
+    },
+    {
+      "date": "2022-10-07",
+      "hour_start": 15,
+      "hour_end": 16,
+      "production_gallons": 327
+    },
+    {
+      "date": "2022-10-07",
+      "hour_start": 16,
+      "hour_end": 17,
+      "production_gallons": 375
+    },
+    {
+      "date": "2022-10-07",
+      "hour_start": 17,
+      "hour_end": 18,
+      "production_gallons": 178
+    },
+    {
+      "date": "2022-10-10",
+      "hour_start": 13,
+      "hour_end": 14,
+      "production_gallons": 86
+    },
+    {
+      "date": "2022-10-10",
+      "hour_start": 14,
+      "hour_end": 15,
+      "production_gallons": 297
+    },
+    {
+      "date": "2022-10-10",
+      "hour_start": 16,
+      "hour_end": 17,
+      "production_gallons": 188
+    },
+    {
+      "date": "2022-10-11",
+      "hour_start": 11,
+      "hour_end": 12,
+      "production_gallons": 223
+    },
+    {
+      "date": "2022-10-11",
+      "hour_start": 12,
+      "hour_end": 13,
+      "production_gallons": 125
+    },
+    {
+      "date": "2022-10-13",
+      "hour_start": 10,
+      "hour_end": 11,
+      "production_gallons": 151
+    },
+    {
+      "date": "2022-10-13",
+      "hour_start": 11,
+      "hour_end": 12,
+      "production_gallons": 398
+    },
+    {
+      "date": "2022-10-13",
+      "hour_start": 13,
+      "hour_end": 14,
+      "production_gallons": 91
+    },
+    {
+      "date": "2022-10-13",
+      "hour_start": 15,
+      "hour_end": 16,
+      "production_gallons": 226
+    },
+    {
+      "date": "2022-10-13",
+      "hour_start": 16,
+      "hour_end": 17,
+      "production_gallons": 141
+    },
+    {
+      "date": "2022-10-20",
+      "hour_start": 15,
+      "hour_end": 16,
+      "production_gallons": 301
+    },
+    {
+      "date": "2022-10-24",
+      "hour_start": 14,
+      "hour_end": 15,
+      "production_gallons": 389
+    },
+    {
+      "date": "2022-10-24",
+      "hour_start": 15,
+      "hour_end": 16,
+      "production_gallons": 138
+    },
+    {
+      "date": "2022-10-24",
+      "hour_start": 16,
+      "hour_end": 17,
+      "production_gallons": 131
+    },
+    {
+      "date": "2022-10-24",
+      "hour_start": 17,
+      "hour_end": 18,
+      "production_gallons": 336
+    },
+    {
+      "date": "2022-10-24",
+      "hour_start": 18,
+      "hour_end": 19,
+      "production_gallons": 180
+    },
+    {
+      "date": "2022-10-25",
+      "hour_start": 11,
+      "hour_end": 12,
+      "production_gallons": 294
+    },
+    {
+      "date": "2022-10-25",
+      "hour_start": 12,
+      "hour_end": 13,
+      "production_gallons": 244
+    },
+    {
+      "date": "2022-10-25",
+      "hour_start": 13,
+      "hour_end": 14,
+      "production_gallons": 0
+    },
+    {
+      "date": "2022-10-25",
+      "hour_start": 14,
+      "hour_end": 15,
+      "production_gallons": 366
+    },
+    {
+      "date": "2022-10-25",
+      "hour_start": 15,
+      "hour_end": 16,
+      "production_gallons": 533
+    },
+    {
+      "date": "2022-10-25",
+      "hour_start": 16,
+      "hour_end": 17,
+      "production_gallons": 452
+    },
+    {
+      "date": "2022-10-25",
+      "hour_start": 17,
+      "hour_end": 18,
+      "production_gallons": 160
+    },
+    {
+      "date": "2022-10-26",
+      "hour_start": 16,
+      "hour_end": 17,
+      "production_gallons": 95
+    },
+    {
+      "date": "2022-10-26",
+      "hour_start": 17,
+      "hour_end": 18,
+      "production_gallons": 333
+    },
+    {
+      "date": "2022-10-28",
+      "hour_start": 16,
+      "hour_end": 17,
+      "production_gallons": 226
+    },
+    {
+      "date": "2022-10-28",
+      "hour_start": 17,
+      "hour_end": 18,
+      "production_gallons": 232
+    },
+    {
+      "date": "2022-10-31",
+      "hour_start": 11,
+      "hour_end": 12,
+      "production_gallons": 431
+    },
+    {
+      "date": "2022-10-31",
+      "hour_start": 12,
+      "hour_end": 13,
+      "production_gallons": 0
+    },
+    {
+      "date": "2022-10-31",
+      "hour_start": 13,
+      "hour_end": 14,
+      "production_gallons": 194
+    },
+    {
+      "date": "2022-10-31",
+      "hour_start": 14,
+      "hour_end": 15,
+      "production_gallons": 74
+    },
+    {
+      "date": "2022-10-31",
+      "hour_start": 15,
+      "hour_end": 16,
+      "production_gallons": 238
+    },
+    {
+      "date": "2022-10-31",
+      "hour_start": 16,
+      "hour_end": 17,
+      "production_gallons": 236
+    },
+    {
+      "date": "2022-10-31",
+      "hour_start": 17,
+      "hour_end": 18,
+      "production_gallons": 404
+    },
+    {
+      "date": "2022-10-31",
+      "hour_start": 18,
+      "hour_end": 19,
+      "production_gallons": 162
+    },
+    {
+      "date": "2022-11-03",
+      "hour_start": 11,
+      "hour_end": 12,
+      "production_gallons": 227
+    },
+    {
+      "date": "2022-11-03",
+      "hour_start": 12,
+      "hour_end": 13,
+      "production_gallons": 44
+    },
+    {
+      "date": "2022-11-03",
+      "hour_start": 13,
+      "hour_end": 14,
+      "production_gallons": 40
+    },
+    {
+      "date": "2022-11-03",
+      "hour_start": 14,
+      "hour_end": 15,
+      "production_gallons": 147
+    },
+    {
+      "date": "2022-11-03",
+      "hour_start": 15,
+      "hour_end": 16,
+      "production_gallons": 246
+    },
+    {
+      "date": "2022-11-03",
+      "hour_start": 16,
+      "hour_end": 17,
+      "production_gallons": 294
+    },
+    {
+      "date": "2022-11-08",
+      "hour_start": 12,
+      "hour_end": 13,
+      "production_gallons": 203
+    },
+    {
+      "date": "2022-11-08",
+      "hour_start": 13,
+      "hour_end": 14,
+      "production_gallons": 31
+    },
+    {
+      "date": "2022-11-08",
+      "hour_start": 14,
+      "hour_end": 15,
+      "production_gallons": 120
+    },
+    {
+      "date": "2022-11-08",
+      "hour_start": 15,
+      "hour_end": 16,
+      "production_gallons": 466
+    },
+    {
+      "date": "2022-11-08",
+      "hour_start": 16,
+      "hour_end": 17,
+      "production_gallons": 49
+    },
+    {
+      "date": "2022-11-08",
+      "hour_start": 17,
+      "hour_end": 18,
+      "production_gallons": 362
+    },
+    {
+      "date": "2022-11-08",
+      "hour_start": 18,
+      "hour_end": 19,
+      "production_gallons": 157
+    },
+    {
+      "date": "2022-11-11",
+      "hour_start": 14,
+      "hour_end": 15,
+      "production_gallons": 46
+    },
+    {
+      "date": "2022-11-11",
+      "hour_start": 15,
+      "hour_end": 16,
+      "production_gallons": 247
+    },
+    {
+      "date": "2022-11-11",
+      "hour_start": 16,
+      "hour_end": 17,
+      "production_gallons": 51
+    },
+    {
+      "date": "2022-11-11",
+      "hour_start": 17,
+      "hour_end": 18,
+      "production_gallons": 230
+    },
+    {
+      "date": "2022-11-14",
+      "hour_start": 15,
+      "hour_end": 16,
+      "production_gallons": 145
+    },
+    {
+      "date": "2022-11-14",
+      "hour_start": 16,
+      "hour_end": 17,
+      "production_gallons": 185
+    },
+    {
+      "date": "2022-11-15",
+      "hour_start": 11,
+      "hour_end": 12,
+      "production_gallons": 535
+    },
+    {
+      "date": "2022-11-15",
+      "hour_start": 12,
+      "hour_end": 13,
+      "production_gallons": 0
+    },
+    {
+      "date": "2022-11-15",
+      "hour_start": 13,
+      "hour_end": 14,
+      "production_gallons": 0
+    },
+    {
+      "date": "2022-11-15",
+      "hour_start": 14,
+      "hour_end": 15,
+      "production_gallons": 520
+    },
+    {
+      "date": "2022-11-15",
+      "hour_start": 15,
+      "hour_end": 16,
+      "production_gallons": 267
+    },
+    {
+      "date": "2022-11-21",
+      "hour_start": 13,
+      "hour_end": 14,
+      "production_gallons": 178
+    },
+    {
+      "date": "2022-11-21",
+      "hour_start": 14,
+      "hour_end": 15,
+      "production_gallons": 0
+    },
+    {
+      "date": "2022-11-21",
+      "hour_start": 15,
+      "hour_end": 16,
+      "production_gallons": 0
+    },
+    {
+      "date": "2022-11-21",
+      "hour_start": 16,
+      "hour_end": 17,
+      "production_gallons": 188
+    },
+    {
+      "date": "2022-11-21",
+      "hour_start": 17,
+      "hour_end": 18,
+      "production_gallons": 240
+    },
+    {
+      "date": "2022-11-23",
+      "hour_start": 15,
+      "hour_end": 16,
+      "production_gallons": 312
+    },
+    {
+      "date": "2022-11-23",
+      "hour_start": 16,
+      "hour_end": 17,
+      "production_gallons": 466
+    },
+    {
+      "date": "2022-11-23",
+      "hour_start": 17,
+      "hour_end": 18,
+      "production_gallons": 166
+    },
+    {
+      "date": "2022-11-28",
+      "hour_start": 12,
+      "hour_end": 13,
+      "production_gallons": 407
+    },
+    {
+      "date": "2022-11-28",
+      "hour_start": 13,
+      "hour_end": 14,
+      "production_gallons": 0
+    },
+    {
+      "date": "2022-11-28",
+      "hour_start": 14,
+      "hour_end": 15,
+      "production_gallons": 0
+    },
+    {
+      "date": "2022-11-28",
+      "hour_start": 15,
+      "hour_end": 16,
+      "production_gallons": 42
+    },
+    {
+      "date": "2022-11-28",
+      "hour_start": 16,
+      "hour_end": 17,
+      "production_gallons": 312
+    },
+    {
+      "date": "2022-11-28",
+      "hour_start": 17,
+      "hour_end": 18,
+      "production_gallons": 470
+    },
+    {
+      "date": "2022-11-28",
+      "hour_start": 18,
+      "hour_end": 19,
+      "production_gallons": 365
+    },
+    {
+      "date": "2022-12-02",
+      "hour_start": 12,
+      "hour_end": 13,
+      "production_gallons": 0
+    },
+    {
+      "date": "2022-12-02",
+      "hour_start": 13,
+      "hour_end": 14,
+      "production_gallons": 196
+    },
+    {
+      "date": "2022-12-02",
+      "hour_start": 14,
+      "hour_end": 15,
+      "production_gallons": 212
+    },
+    {
+      "date": "2022-12-02",
+      "hour_start": 15,
+      "hour_end": 16,
+      "production_gallons": 101
+    },
+    {
+      "date": "2022-12-05",
+      "hour_start": 12,
+      "hour_end": 13,
+      "production_gallons": 11
+    },
+    {
+      "date": "2022-12-05",
+      "hour_start": 13,
+      "hour_end": 14,
+      "production_gallons": 103
+    },
+    {
+      "date": "2022-12-05",
+      "hour_start": 14,
+      "hour_end": 15,
+      "production_gallons": 6
+    },
+    {
+      "date": "2022-12-05",
+      "hour_start": 15,
+      "hour_end": 16,
+      "production_gallons": 438
+    },
+    {
+      "date": "2022-12-06",
+      "hour_start": 7,
+      "hour_end": 8,
+      "production_gallons": 173
+    },
+    {
+      "date": "2022-12-06",
+      "hour_start": 8,
+      "hour_end": 9,
+      "production_gallons": 0
+    },
+    {
+      "date": "2022-12-06",
+      "hour_start": 9,
+      "hour_end": 10,
+      "production_gallons": 5
+    },
+    {
+      "date": "2022-12-06",
+      "hour_start": 10,
+      "hour_end": 11,
+      "production_gallons": 0
+    },
+    {
+      "date": "2022-12-06",
+      "hour_start": 11,
+      "hour_end": 12,
+      "production_gallons": 0
+    },
+    {
+      "date": "2022-12-06",
+      "hour_start": 12,
+      "hour_end": 13,
+      "production_gallons": 0
+    },
+    {
+      "date": "2022-12-06",
+      "hour_start": 13,
+      "hour_end": 14,
+      "production_gallons": 74
+    },
+    {
+      "date": "2022-12-06",
+      "hour_start": 14,
+      "hour_end": 15,
+      "production_gallons": 274
+    },
+    {
+      "date": "2022-12-06",
+      "hour_start": 15,
+      "hour_end": 16,
+      "production_gallons": 457
+    },
+    {
+      "date": "2022-12-06",
+      "hour_start": 16,
+      "hour_end": 17,
+      "production_gallons": 67
+    },
+    {
+      "date": "2022-12-08",
+      "hour_start": 11,
+      "hour_end": 12,
+      "production_gallons": 602
+    },
+    {
+      "date": "2022-12-08",
+      "hour_start": 12,
+      "hour_end": 13,
+      "production_gallons": 329
+    },
+    {
+      "date": "2022-12-08",
+      "hour_start": 13,
+      "hour_end": 14,
+      "production_gallons": 0
+    },
+    {
+      "date": "2022-12-08",
+      "hour_start": 14,
+      "hour_end": 15,
+      "production_gallons": 293
+    },
+    {
+      "date": "2022-12-08",
+      "hour_start": 15,
+      "hour_end": 16,
+      "production_gallons": 89
+    },
+    {
+      "date": "2022-12-08",
+      "hour_start": 16,
+      "hour_end": 17,
+      "production_gallons": 353
+    },
+    {
+      "date": "2022-12-08",
+      "hour_start": 17,
+      "hour_end": 18,
+      "production_gallons": 190
+    },
+    {
+      "date": "2022-12-13",
+      "hour_start": 7,
+      "hour_end": 8,
+      "production_gallons": 10
+    },
+    {
+      "date": "2022-12-13",
+      "hour_start": 8,
+      "hour_end": 9,
+      "production_gallons": 106
+    },
+    {
+      "date": "2022-12-13",
+      "hour_start": 9,
+      "hour_end": 10,
+      "production_gallons": 2
+    },
+    {
+      "date": "2022-12-13",
+      "hour_start": 10,
+      "hour_end": 11,
+      "production_gallons": 291
+    },
+    {
+      "date": "2022-12-13",
+      "hour_start": 11,
+      "hour_end": 12,
+      "production_gallons": 258
+    },
+    {
+      "date": "2022-12-13",
+      "hour_start": 12,
+      "hour_end": 13,
+      "production_gallons": 54
+    },
+    {
+      "date": "2022-12-13",
+      "hour_start": 13,
+      "hour_end": 14,
+      "production_gallons": 19
+    },
+    {
+      "date": "2022-12-13",
+      "hour_start": 14,
+      "hour_end": 15,
+      "production_gallons": 184
+    },
+    {
+      "date": "2022-12-13",
+      "hour_start": 15,
+      "hour_end": 16,
+      "production_gallons": 71
+    },
+    {
+      "date": "2022-12-13",
+      "hour_start": 16,
+      "hour_end": 17,
+      "production_gallons": 399
+    },
+    {
+      "date": "2022-12-16",
+      "hour_start": 16,
+      "hour_end": 17,
+      "production_gallons": 104
+    },
+    {
+      "date": "2022-12-16",
+      "hour_start": 17,
+      "hour_end": 18,
+      "production_gallons": 121
+    },
+    {
+      "date": "2022-12-19",
+      "hour_start": 11,
+      "hour_end": 12,
+      "production_gallons": 205
+    },
+    {
+      "date": "2022-12-19",
+      "hour_start": 12,
+      "hour_end": 13,
+      "production_gallons": 0
+    },
+    {
+      "date": "2022-12-19",
+      "hour_start": 13,
+      "hour_end": 14,
+      "production_gallons": 0
+    },
+    {
+      "date": "2022-12-19",
+      "hour_start": 14,
+      "hour_end": 15,
+      "production_gallons": 150
+    },
+    {
+      "date": "2022-12-19",
+      "hour_start": 15,
+      "hour_end": 16,
+      "production_gallons": 129
+    },
+    {
+      "date": "2022-12-19",
+      "hour_start": 16,
+      "hour_end": 17,
+      "production_gallons": 59
+    },
+    {
+      "date": "2022-12-20",
+      "hour_start": 11,
+      "hour_end": 12,
+      "production_gallons": 111
+    },
+    {
+      "date": "2022-12-20",
+      "hour_start": 12,
+      "hour_end": 13,
+      "production_gallons": 246
+    },
+    {
+      "date": "2022-12-20",
+      "hour_start": 13,
+      "hour_end": 14,
+      "production_gallons": 0
+    },
+    {
+      "date": "2022-12-20",
+      "hour_start": 14,
+      "hour_end": 15,
+      "production_gallons": 379
+    },
+    {
+      "date": "2022-12-20",
+      "hour_start": 15,
+      "hour_end": 16,
+      "production_gallons": 508
+    },
+    {
+      "date": "2022-12-20",
+      "hour_start": 16,
+      "hour_end": 17,
+      "production_gallons": 413
+    },
+    {
+      "date": "2022-12-20",
+      "hour_start": 17,
+      "hour_end": 18,
+      "production_gallons": 284
+    },
+    {
+      "date": "2022-12-21",
+      "hour_start": 10,
+      "hour_end": 11,
+      "production_gallons": 302
+    },
+    {
+      "date": "2022-12-21",
+      "hour_start": 11,
+      "hour_end": 12,
+      "production_gallons": 365
+    },
+    {
+      "date": "2022-12-21",
+      "hour_start": 12,
+      "hour_end": 13,
+      "production_gallons": 36
+    },
+    {
+      "date": "2022-12-21",
+      "hour_start": 13,
+      "hour_end": 14,
+      "production_gallons": 0
+    },
+    {
+      "date": "2022-12-21",
+      "hour_start": 14,
+      "hour_end": 15,
+      "production_gallons": 143
+    },
+    {
+      "date": "2022-12-21",
+      "hour_start": 15,
+      "hour_end": 16,
+      "production_gallons": 407
+    },
+    {
+      "date": "2022-12-21",
+      "hour_start": 16,
+      "hour_end": 17,
+      "production_gallons": 397
+    },
+    {
+      "date": "2022-12-21",
+      "hour_start": 17,
+      "hour_end": 18,
+      "production_gallons": 498
+    },
+    {
+      "date": "2022-12-22",
+      "hour_start": 11,
+      "hour_end": 12,
+      "production_gallons": 434
+    },
+    {
+      "date": "2022-12-22",
+      "hour_start": 12,
+      "hour_end": 13,
+      "production_gallons": 40
+    },
+    {
+      "date": "2022-12-22",
+      "hour_start": 13,
+      "hour_end": 14,
+      "production_gallons": 0
+    },
+    {
+      "date": "2022-12-22",
+      "hour_start": 14,
+      "hour_end": 15,
+      "production_gallons": 0
+    },
+    {
+      "date": "2022-12-22",
+      "hour_start": 15,
+      "hour_end": 16,
+      "production_gallons": 441
+    },
+    {
+      "date": "2022-12-22",
+      "hour_start": 16,
+      "hour_end": 17,
+      "production_gallons": 422
+    },
+    {
+      "date": "2022-12-23",
+      "hour_start": 9,
+      "hour_end": 10,
+      "production_gallons": 160
+    },
+    {
+      "date": "2022-12-23",
+      "hour_start": 10,
+      "hour_end": 11,
+      "production_gallons": 349
+    },
+    {
+      "date": "2022-12-23",
+      "hour_start": 11,
+      "hour_end": 12,
+      "production_gallons": 319
+    },
+    {
+      "date": "2022-12-23",
+      "hour_start": 12,
+      "hour_end": 13,
+      "production_gallons": 230
+    },
+    {
+      "date": "2022-12-26",
+      "hour_start": 15,
+      "hour_end": 16,
+      "production_gallons": 60
+    },
+    {
+      "date": "2022-12-26",
+      "hour_start": 16,
+      "hour_end": 17,
+      "production_gallons": 282
+    },
+    {
+      "date": "2022-12-27",
+      "hour_start": 10,
+      "hour_end": 11,
+      "production_gallons": 244
+    },
+    {
+      "date": "2022-12-27",
+      "hour_start": 11,
+      "hour_end": 12,
+      "production_gallons": 203
+    },
+    {
+      "date": "2022-12-27",
+      "hour_start": 12,
+      "hour_end": 13,
+      "production_gallons": 294
+    },
+    {
+      "date": "2022-12-27",
+      "hour_start": 13,
+      "hour_end": 14,
+      "production_gallons": 0
+    },
+    {
+      "date": "2022-12-27",
+      "hour_start": 14,
+      "hour_end": 15,
+      "production_gallons": 0
+    },
+    {
+      "date": "2022-12-27",
+      "hour_start": 15,
+      "hour_end": 16,
+      "production_gallons": 228
+    },
+    {
+      "date": "2022-12-27",
+      "hour_start": 16,
+      "hour_end": 17,
+      "production_gallons": 189
+    },
+    {
+      "date": "2022-12-27",
+      "hour_start": 17,
+      "hour_end": 18,
+      "production_gallons": 45
+    },
+    {
+      "date": "2022-12-28",
+      "hour_start": 11,
+      "hour_end": 12,
+      "production_gallons": 253
+    },
+    {
+      "date": "2022-12-28",
+      "hour_start": 12,
+      "hour_end": 13,
+      "production_gallons": 259
+    },
+    {
+      "date": "2022-12-28",
+      "hour_start": 13,
+      "hour_end": 14,
+      "production_gallons": 0
+    },
+    {
+      "date": "2022-12-28",
+      "hour_start": 14,
+      "hour_end": 15,
+      "production_gallons": 158
+    },
+    {
+      "date": "2022-12-28",
+      "hour_start": 15,
+      "hour_end": 16,
+      "production_gallons": 143
+    },
+    {
+      "date": "2022-12-30",
+      "hour_start": 11,
+      "hour_end": 12,
+      "production_gallons": 300
+    },
+    {
+      "date": "2022-12-30",
+      "hour_start": 12,
+      "hour_end": 13,
+      "production_gallons": 8
+    },
+    {
+      "date": "2022-12-30",
+      "hour_start": 13,
+      "hour_end": 14,
+      "production_gallons": 11
+    },
+    {
+      "date": "2022-12-30",
+      "hour_start": 14,
+      "hour_end": 15,
+      "production_gallons": 205
+    },
+    {
+      "date": "2022-12-30",
+      "hour_start": 15,
+      "hour_end": 16,
+      "production_gallons": 318
+    },
+    {
+      "date": "2022-12-30",
+      "hour_start": 16,
+      "hour_end": 17,
+      "production_gallons": 232
+    },
+    {
+      "date": "2023-01-02",
+      "hour_start": 17,
+      "hour_end": 18,
+      "production_gallons": 312
+    },
+    {
+      "date": "2023-01-11",
+      "hour_start": 15,
+      "hour_end": 16,
+      "production_gallons": 457
+    },
+    {
+      "date": "2023-01-11",
+      "hour_start": 16,
+      "hour_end": 17,
+      "production_gallons": 633
+    },
+    {
+      "date": "2023-01-11",
+      "hour_start": 17,
+      "hour_end": 18,
+      "production_gallons": 254
+    },
+    {
+      "date": "2023-01-13",
+      "hour_start": 14,
+      "hour_end": 15,
+      "production_gallons": 219
+    },
+    {
+      "date": "2023-01-13",
+      "hour_start": 15,
+      "hour_end": 16,
+      "production_gallons": 446
+    },
+    {
+      "date": "2023-01-13",
+      "hour_start": 16,
+      "hour_end": 17,
+      "production_gallons": 178
+    },
+    {
+      "date": "2023-01-16",
+      "hour_start": 12,
+      "hour_end": 13,
+      "production_gallons": 574
+    },
+    {
+      "date": "2023-01-16",
+      "hour_start": 13,
+      "hour_end": 14,
+      "production_gallons": 0
+    },
+    {
+      "date": "2023-01-16",
+      "hour_start": 14,
+      "hour_end": 15,
+      "production_gallons": 71
+    },
+    {
+      "date": "2023-01-16",
+      "hour_start": 15,
+      "hour_end": 16,
+      "production_gallons": 562
+    },
+    {
+      "date": "2023-01-16",
+      "hour_start": 16,
+      "hour_end": 17,
+      "production_gallons": 506
+    },
+    {
+      "date": "2023-01-16",
+      "hour_start": 17,
+      "hour_end": 18,
+      "production_gallons": 191
+    },
+    {
+      "date": "2023-01-19",
+      "hour_start": 15,
+      "hour_end": 16,
+      "production_gallons": 599
+    },
+    {
+      "date": "2023-01-19",
+      "hour_start": 16,
+      "hour_end": 17,
+      "production_gallons": 398
+    },
+    {
+      "date": "2023-01-19",
+      "hour_start": 17,
+      "hour_end": 18,
+      "production_gallons": 126
+    },
+    {
+      "date": "2023-01-20",
+      "hour_start": 16,
+      "hour_end": 17,
+      "production_gallons": 370
+    },
+    {
+      "date": "2023-01-20",
+      "hour_start": 17,
+      "hour_end": 18,
+      "production_gallons": 316
+    },
+    {
+      "date": "2023-01-20",
+      "hour_start": 18,
+      "hour_end": 19,
+      "production_gallons": 625
+    },
+    {
+      "date": "2023-01-24",
+      "hour_start": 15,
+      "hour_end": 16,
+      "production_gallons": 447
+    },
+    {
+      "date": "2023-01-24",
+      "hour_start": 16,
+      "hour_end": 17,
+      "production_gallons": 211
+    },
+    {
+      "date": "2023-01-27",
+      "hour_start": 11,
+      "hour_end": 12,
+      "production_gallons": 435
+    },
+    {
+      "date": "2023-01-27",
+      "hour_start": 12,
+      "hour_end": 13,
+      "production_gallons": 173
+    },
+    {
+      "date": "2023-01-27",
+      "hour_start": 13,
+      "hour_end": 14,
+      "production_gallons": 0
+    },
+    {
+      "date": "2023-01-27",
+      "hour_start": 14,
+      "hour_end": 15,
+      "production_gallons": 377
+    },
+    {
+      "date": "2023-01-27",
+      "hour_start": 15,
+      "hour_end": 16,
+      "production_gallons": 430
+    },
+    {
+      "date": "2023-01-27",
+      "hour_start": 16,
+      "hour_end": 17,
+      "production_gallons": 277
+    },
+    {
+      "date": "2023-01-31",
+      "hour_start": 13,
+      "hour_end": 14,
+      "production_gallons": 109
+    },
+    {
+      "date": "2023-01-31",
+      "hour_start": 14,
+      "hour_end": 15,
+      "production_gallons": 301
+    },
+    {
+      "date": "2023-01-31",
+      "hour_start": 15,
+      "hour_end": 16,
+      "production_gallons": 197
+    },
+    {
+      "date": "2023-01-31",
+      "hour_start": 16,
+      "hour_end": 17,
+      "production_gallons": 248
+    },
+    {
+      "date": "2023-02-07",
+      "hour_start": 13,
+      "hour_end": 14,
+      "production_gallons": 37
+    },
+    {
+      "date": "2023-02-07",
+      "hour_start": 14,
+      "hour_end": 15,
+      "production_gallons": 266
+    },
+    {
+      "date": "2023-02-07",
+      "hour_start": 15,
+      "hour_end": 16,
+      "production_gallons": 250
+    },
+    {
+      "date": "2023-02-07",
+      "hour_start": 16,
+      "hour_end": 17,
+      "production_gallons": 58
+    },
+    {
+      "date": "2023-02-10",
+      "hour_start": 10,
+      "hour_end": 11,
+      "production_gallons": 115
+    },
+    {
+      "date": "2023-02-10",
+      "hour_start": 11,
+      "hour_end": 12,
+      "production_gallons": 314
+    },
+    {
+      "date": "2023-02-10",
+      "hour_start": 12,
+      "hour_end": 13,
+      "production_gallons": 0
+    },
+    {
+      "date": "2023-02-10",
+      "hour_start": 13,
+      "hour_end": 14,
+      "production_gallons": 188
+    },
+    {
+      "date": "2023-02-10",
+      "hour_start": 14,
+      "hour_end": 15,
+      "production_gallons": 430
+    },
+    {
+      "date": "2023-02-10",
+      "hour_start": 15,
+      "hour_end": 16,
+      "production_gallons": 242
+    }
+  ]

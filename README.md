@@ -59,6 +59,9 @@ When line efficiency drops and idle power spikes:
    └────────────────────────────────────────────────────────┘
 ```
 
+## 🗃️ Zetaris Data
+To load the industrial production dataset into Zetaris, follow the step-by-step guide in [docs/zetaris/README.md](docs/zetaris/README.md). It covers creating the `production_raw` file source, uploading JSON files into the NDP file-store folder, and creating the JSON-backed tables that SustainFlow queries via `PRODUCTION_RAW.*`.
+
 ### 1. Zetaris Data Virtualization
 SustainFlow connects to Zetaris via its authenticated HTTP Proxy (`/api/proxy/query/sql/start`), issuing federated analytical queries directly across production tables:
 - `PRODUCTION_RAW.daily_metrics`: Aggregated runs, pause hours, units, stops per 1k units.
@@ -120,6 +123,15 @@ And open **`http://localhost:4111`** to open Mastra Studio.
 
 ### Demo Replay Mode
 To ensure guaranteed stability during demo recordings, click the **"Replay Mode"** button or pass `?replay=1` to the API.
+
+---
+
+## Pre-existing components
+- Mastra framework and its `security-incident-triage-and-response` template (Apache-2.0): workflow and approval-step structure
+- Meterless Markovian engine reference code (Apache-2.0)
+- Dataset: "Industrial Production Time-Series Dataset from a Beverage Bottling Line",
+  David, Monson and Soares Junior, Zenodo, DOI 10.5281/zenodo.18146866 (CC BY 4.0)
+- Everything else (tools, agents, critic, modelling, UI) was built during the hackathon.
 
 ---
 

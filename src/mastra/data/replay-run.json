@@ -1,6 +1,6 @@
 {
-  "runId": "run_1793137765360",
-  "status": "awaiting_approval",
+  "runId": "run_1793139963763",
+  "status": "approved",
   "traces": [
     {
       "id": "trace_1",
@@ -8,7 +8,7 @@
       "type": "plan",
       "title": "Initialize Automated Investigation",
       "text": "Analyzing factory production performance trends across Q3 and Q4 2022 to identify energy waste anomalies and stoppage deviations.",
-      "timestamp": "2026-10-27T21:49:25.538Z"
+      "timestamp": "2026-10-27T22:26:04.276Z"
     },
     {
       "id": "trace_2",
@@ -67,7 +67,7 @@
           "total_units": "1900"
         }
       ],
-      "timestamp": "2026-10-27T21:49:25.930Z"
+      "timestamp": "2026-10-27T22:26:04.979Z"
     },
     {
       "id": "trace_3",
@@ -76,7 +76,7 @@
       "title": "Anomaly Confirmed: Significant Stoppage Spike",
       "text": "Data shows stops per 1k units rose sharply to ~28-30 stops/1,000 units during September-November 2022, causing ~126 cumulative pause hours and severe idle energy draw.",
       "confidence": 0.65,
-      "timestamp": "2026-10-27T21:49:25.930Z"
+      "timestamp": "2026-10-27T22:26:04.979Z"
     },
     {
       "id": "trace_4",
@@ -85,7 +85,7 @@
       "title": "Hypothesis 1: Production Volume / Speed Surge",
       "text": "Initial hypothesis: Line stoppage increase is proportional to elevated monthly production volume demands or higher line speed.",
       "confidence": 0.4,
-      "timestamp": "2026-10-27T21:49:25.930Z"
+      "timestamp": "2026-10-27T22:26:04.980Z"
     },
     {
       "id": "trace_5",
@@ -116,7 +116,7 @@
           "total_bottles": "7758"
         }
       ],
-      "timestamp": "2026-10-27T21:49:26.320Z"
+      "timestamp": "2026-10-27T22:26:05.404Z"
     },
     {
       "id": "trace_6",
@@ -125,7 +125,7 @@
       "title": "Critic Refutation: Volume Hypothesis Rejected",
       "text": "REFUTED: Production volume in September (34,810 units) and October (33,490 units) was comparable or lower than July (38,200 units). Volume does not explain the 2x stoppage spike.",
       "confidence": 0.75,
-      "timestamp": "2026-10-27T21:49:26.320Z"
+      "timestamp": "2026-10-27T22:26:05.404Z"
     },
     {
       "id": "trace_7",
@@ -150,7 +150,7 @@
           "total_downtime_mins": "2082.9"
         }
       ],
-      "timestamp": "2026-10-27T21:49:26.634Z"
+      "timestamp": "2026-10-27T22:26:05.717Z"
     },
     {
       "id": "trace_8",
@@ -159,7 +159,7 @@
       "title": "Root Cause Isolated: 5L Container Instability",
       "text": "CONFIRMED: The newly introduced 5L bottle has an average stoppage rate of 60.1 stops per 1,000 units—over double the 3L rate (28.3). This single SKU accounts for over 65% of all pause time in Sep-Nov.",
       "confidence": 0.94,
-      "timestamp": "2026-10-27T21:49:26.634Z"
+      "timestamp": "2026-10-27T22:26:05.717Z"
     },
     {
       "id": "trace_9",
@@ -185,7 +185,7 @@
           "total_mins": "1168.7"
         }
       ],
-      "timestamp": "2026-10-27T21:49:26.907Z"
+      "timestamp": "2026-10-27T22:26:06.051Z"
     },
     {
       "id": "trace_10",
@@ -194,7 +194,7 @@
       "title": "Micro-Stoppages Dominate Idle Energy Waste",
       "text": "Out of 1,388 logged events, 88% are micro-stoppages under 5 minutes caused by optical sensor chatter and conveyor infeed misalignment. (December 6 had one 350-min catastrophic breakdown, which is an outlier rather than the systemic inefficiency).",
       "confidence": 0.96,
-      "timestamp": "2026-10-27T21:49:26.907Z"
+      "timestamp": "2026-10-27T22:26:06.051Z"
     },
     {
       "id": "trace_11",
@@ -217,7 +217,7 @@
           "running_power_kw": "45.0"
         }
       ],
-      "timestamp": "2026-10-27T21:49:27.076Z"
+      "timestamp": "2026-10-27T22:26:06.256Z"
     },
     {
       "id": "trace_12",
@@ -226,7 +226,7 @@
       "title": "Operational Recommendation: 5L Guide Realignment & Sensor Calibration",
       "text": "Realign infeed side-rails and calibrate optical debounce timers for the 5L bottle run. Projected to eliminate 792 micro-stoppages, saving ~427.7 kWh of idle electricity, avoiding 171.1 kg CO2, and saving 19,800 L of rinse water per quarter with only a +5% technician pre-flight workload.",
       "confidence": 0.96,
-      "timestamp": "2026-10-27T21:49:27.076Z"
+      "timestamp": "2026-10-27T22:26:06.257Z"
     },
     {
       "id": "trace_13",
@@ -234,7 +234,24 @@
       "type": "decision",
       "title": "Operator Approval Required",
       "text": "Autonomous investigation paused. Operator review required to authorize physical line calibration intervention.",
-      "timestamp": "2026-10-27T21:49:27.076Z"
+      "timestamp": "2026-10-27T22:26:06.257Z"
+    },
+    {
+      "id": "trace_14",
+      "step": 14,
+      "type": "decision",
+      "title": "Operator Authorization Granted",
+      "text": "Intervention 'opt_speed_governor' approved by Plant Operator. Notes: \"Authorized by Plant Lead for Line 2 calibration window\". Work order queued for implementation.",
+      "timestamp": "2026-10-27T22:26:35.531Z"
+    },
+    {
+      "id": "trace_15",
+      "step": 15,
+      "type": "simulation",
+      "title": "Modeled Post-Intervention Verification",
+      "text": "Verified modeled reduction of 604 stoppages, 271.8 kWh idle energy saved, and 15,100 L water preserved.",
+      "confidence": 0.98,
+      "timestamp": "2026-10-27T22:26:35.531Z"
     }
   ],
   "hypotheses": [
@@ -255,13 +272,13 @@
   ],
   "simulation": {
     "intervention": {
-      "id": "opt_5l_feed_guide",
-      "name": "5L Line Infeed Guide Realignment & Sensor Calibration",
-      "description": "Recalibrate photoelectric sensors and widen infeed guide rail for 5L containers to eliminate micro-chatter and false bottle jams.",
-      "target": "5L_micro_stoppages",
-      "reductionPct": 40,
-      "workloadIncreasePct": 5,
-      "throughputImpactPct": 0.2
+      "id": "opt_speed_governor",
+      "name": "Dynamic Speed Governor for Viscous Fill Cycles",
+      "description": "Throttle filler velocity by 4% on high-volume runs to prevent splashing and subsequent emergency stop rinses.",
+      "target": "speed_governor",
+      "reductionPct": 20,
+      "workloadIncreasePct": 1,
+      "throughputImpactPct": -1.5
     },
     "baseline": {
       "totalUnits": 104250,
@@ -282,37 +299,37 @@
       "energyKwhPer1kUnits": 21.82
     },
     "modeled": {
-      "totalUnits": 104459,
-      "totalPauseHours": 102.6,
+      "totalUnits": 102686,
+      "totalPauseHours": 111.3,
       "totalOperationHours": 242,
-      "totalStoppages": 2228,
-      "microStops": 1858,
+      "totalStoppages": 2416,
+      "microStops": 2167,
       "mediumStops": 290,
       "longStops": 80,
-      "stoppages5L": 1188,
+      "stoppages5L": 1980,
       "stoppages3L": 1040,
       "units5L": 46800,
       "units3L": 57450,
-      "idleEnergyKwh": 1847.5,
-      "co2EmissionsKg": 739,
-      "waterLossLiters": 55700,
-      "stopsPer1kUnits": 21.33,
-      "energyKwhPer1kUnits": 17.69
+      "idleEnergyKwh": 2003.4,
+      "co2EmissionsKg": 801.4,
+      "waterLossLiters": 60400,
+      "stopsPer1kUnits": 23.53,
+      "energyKwhPer1kUnits": 19.51
     },
     "savings": {
-      "energyKwhSaved": 427.7,
-      "energyPctSaved": 18.8,
-      "co2KgAvoided": 171.1,
-      "waterLitersSaved": 19800,
-      "stoppagesReduced": 792,
-      "annualizedCostSavingsUsd": 653
+      "energyKwhSaved": 271.8,
+      "energyPctSaved": 11.9,
+      "co2KgAvoided": 108.7,
+      "waterLitersSaved": 15100,
+      "stoppagesReduced": 604,
+      "annualizedCostSavingsUsd": 465
     },
     "tradeOffs": {
-      "workloadIncreasePct": 5,
-      "throughputChangePct": 0.2,
+      "workloadIncreasePct": 1,
+      "throughputChangePct": -1.5,
       "meetsThroughputFloor": true
     },
     "note": "Modeled estimate derived from Zetaris production metrics and team resource assumptions. Illustrative engineering calculations."
   },
-  "completedAt": "2026-10-27T21:49:27.076Z"
+  "completedAt": "2026-10-27T22:26:06.257Z"
 }

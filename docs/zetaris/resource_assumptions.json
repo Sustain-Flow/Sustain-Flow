@@ -1,0 +1,14 @@
+[
+ {
+  "assumption_id": "line_v1",
+  "scope": "bottling line (illustrative)",
+  "idle_power_kw": 18.0,
+  "running_power_kw": 45.0,
+  "grid_kg_co2_per_kwh": 0.4,
+  "water_l_per_restart": 25.0,
+  "min_throughput_pct": 95.0,
+  "max_workload_increase_pct": 0.0,
+  "source": "TEAM ASSUMPTION - illustrative values, not measured",
+  "note": "Energy and CO2 derived from pause hours x idle_power_kw. Water derived from stop count x water_l_per_restart. All modeled, not metered."
+ }
+]
